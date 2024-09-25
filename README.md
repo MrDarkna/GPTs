@@ -21,6 +21,7 @@ Most of the prompts I collected from [here](https://x.com/dotey/status/172283112
 - [Sticker Whiz](./prompts/Sticker%20Whiz.md) by ChatGPT
 - [Obscribe](./prompts/Obscribe.md) by Azhar Hama
 - [Girlfriend Emma](./prompts/Girlfriend%20Emma.md) by dddshop.com
+- [Socratic CBT Therapy](./prompts/SocraticTherapy.md) by Kasra.One
 - [TherapistGPT](./prompts/TherapistGPT.md) by David Boyle
 - [🎀My excellent classmates (Help with my homework!)](./prompts/%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
 - [Moby Dick RPG](./prompts/Moby%20Dick%20RPG.md) by word.studio
